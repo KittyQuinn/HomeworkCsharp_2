@@ -1,0 +1,15 @@
+/Users/kataryzova/Desktop/HOMEWORK2/Task15/bin/Debug/net6.0/Task15
+/Users/kataryzova/Desktop/HOMEWORK2/Task15/bin/Debug/net6.0/Task15.deps.json
+/Users/kataryzova/Desktop/HOMEWORK2/Task15/bin/Debug/net6.0/Task15.runtimeconfig.json
+/Users/kataryzova/Desktop/HOMEWORK2/Task15/bin/Debug/net6.0/Task15.dll
+/Users/kataryzova/Desktop/HOMEWORK2/Task15/bin/Debug/net6.0/Task15.pdb
+/Users/kataryzova/Desktop/HOMEWORK2/Task15/obj/Debug/net6.0/Task15.csproj.AssemblyReference.cache
+/Users/kataryzova/Desktop/HOMEWORK2/Task15/obj/Debug/net6.0/Task15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kataryzova/Desktop/HOMEWORK2/Task15/obj/Debug/net6.0/Task15.AssemblyInfoInputs.cache
+/Users/kataryzova/Desktop/HOMEWORK2/Task15/obj/Debug/net6.0/Task15.AssemblyInfo.cs
+/Users/kataryzova/Desktop/HOMEWORK2/Task15/obj/Debug/net6.0/Task15.csproj.CoreCompileInputs.cache
+/Users/kataryzova/Desktop/HOMEWORK2/Task15/obj/Debug/net6.0/Task15.dll
+/Users/kataryzova/Desktop/HOMEWORK2/Task15/obj/Debug/net6.0/refint/Task15.dll
+/Users/kataryzova/Desktop/HOMEWORK2/Task15/obj/Debug/net6.0/Task15.pdb
+/Users/kataryzova/Desktop/HOMEWORK2/Task15/obj/Debug/net6.0/Task15.genruntimeconfig.cache
+/Users/kataryzova/Desktop/HOMEWORK2/Task15/obj/Debug/net6.0/ref/Task15.dll
